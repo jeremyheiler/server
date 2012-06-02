@@ -1,0 +1,37 @@
+## Reply Codes
+
+### 1xx - Informational
+
+`100 Continue`:
+
+### 2xx - Successful
+
+`200 OK`: The command was successful.
+
+`201 Created`: The resource has been created. (?)
+
+`202 Accepted`: The command was accepted, but has not completed processing.
+
+### 3xx - Multiple Choices
+
+### 4xx - Client Error
+
+`400 Bad Request`: The command was not understood by the server.
+
+`401 Unauthorized`:
+
+`403 Forbidden`:
+
+`404 Not Found`:
+
+`409 Conflict`:
+
+### 5xx - Server Error
+
+`500 Internal Server Error`:
+
+`501 Not Implemented`:
+
+`502 Bad Gateway`:
+
+`503 Service Unavailable`:

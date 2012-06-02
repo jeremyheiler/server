@@ -1,0 +1,5 @@
+#surefire
+#Wed May 23 21:16:21 EDT 2012
+user.dir=/home/jeremy/projects/literally/server-maven-plugin/server-maven-plugin
+localRepository=/home/jeremy/.m2/repository
+basedir=/home/jeremy/projects/literally/server-maven-plugin/server-maven-plugin

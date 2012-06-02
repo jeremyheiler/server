@@ -1,0 +1,5 @@
+#surefire
+#Fri May 25 21:29:15 EDT 2012
+user.dir=/home/jeremy/projects/literally/paprika-maven-plugin
+localRepository=/home/jeremy/.m2/repository
+basedir=/home/jeremy/projects/literally/paprika-maven-plugin
